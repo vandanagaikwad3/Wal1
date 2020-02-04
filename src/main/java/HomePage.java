@@ -3,7 +3,7 @@
  */
 
 /**
- * @author vanda
+ * @author vandana
  *
  */
 public class HomePage {
